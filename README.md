@@ -14,6 +14,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 # API de futebol
 
-Documentação: https://docs.sportmonks.com/football-2/get-started/get-started
-Crie uma conta em: https://my.sportmonks.com/
-Crie um arquivo (.env) no projeto e coloque: REACT_APP_API_KEY=(cole_sua_key)
+Documentação: https://docs.sportmonks.com/football-2/get-started/get-started \
+Crie uma conta em: https://my.sportmonks.com/ \
+Crie um arquivo (.env) no projeto e coloque: REACT_APP_API_KEY=(cole_sua_key) 
